@@ -38,7 +38,7 @@ const NavigationEng = (props) => {
             <Hamburger toggled={isOpen} toggle={setOpen} duration={.8}/>
           </div>
           
-          <h1 className="main-title">BALOREA WEB</h1> {/*Main title*/}
+          <h1 className="main-title">OLCSÓ FŰTÉS</h1> {/*Main title*/}
                             
           {/*Page logo*/}
           <div className="logo-container"></div> 
