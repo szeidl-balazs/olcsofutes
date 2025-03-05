@@ -9,9 +9,9 @@
 
 /*variables*/
 :root {
-    --main-dark-color: rgb(2, 32, 42);
+    --main-dark-color: rgb(197, 63, 15);
     --logo-color: #b9bcbd;
-    --main-light-color: #0fee0f;
+    --main-light-color: rgb(249, 187, 31);
     --hover-color: rgba(230, 240, 100, 1);
     --secondary-color: #c0c0c0;
     --secondary-font-size: 15px;

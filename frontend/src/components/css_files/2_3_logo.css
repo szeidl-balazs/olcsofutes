@@ -7,7 +7,7 @@
 }
 
 .logo-container {
-    background-image: url("../images/balorea_logo_grey.png");
+    background-image: url("../images/Olcso_futes_logo.png");
     background-size:contain;
     grid-area: logo-container;
     justify-self: right;
