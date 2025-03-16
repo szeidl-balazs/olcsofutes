@@ -1,5 +1,5 @@
 import { React, useState } from "react";
-import ExpandMoreIcon from "@material-ui/icons/ExpandMore";
+import ExpandMoreIcon from "@material-ui/icons/ExpandMore"; /*material ui has to be installed!npm install @mui/material @emotion/react @emotion/styled */
 import { useSpring, animated, easings } from "react-spring";
 import "../css_files/3_3_specification.css"
 import LandingPages from "./5_1_1_Reference_eng_landing_pages";

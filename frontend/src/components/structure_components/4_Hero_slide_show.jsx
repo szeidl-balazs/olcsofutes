@@ -1,5 +1,5 @@
 import React from 'react';
-import { CCarousel } from '@coreui/react';
+import { CCarousel } from '@coreui/react'; /*coureui has to be installed! npm install @coreui/coreui */
 import { CCarouselItem } from '@coreui/react';
 import { CImage } from '@coreui/react';
 import '@coreui/coreui/dist/css/coreui.min.css';
